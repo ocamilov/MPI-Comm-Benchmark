@@ -6,3 +6,5 @@ Three codes were used: hello_world_mpi, ping_pong_mpi and mpisecond. The last on
 Link to hello_world_mpi: https://github.com/mpitutorial/mpitutorial/blob/gh-pages/tutorials/mpi-hello-world/code/mpi_hello_world.c
 
 Link to ping_pong_mpi: https://github.com/jeffhammond/a1/blob/master/trunk/benchmarks/mpi/ping-pong-mpi.c
+
+This code is provided "As-Is" and confers no rights, express or implied, and hereby all warranties are disclaimed.
